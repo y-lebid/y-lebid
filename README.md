@@ -1,4 +1,4 @@
-# Yegor | Junior Python Developer / Developer
+# Yehor | Junior Python Developer / Developer
 
 * **Location:** Ukraine 🇺🇦
 * **Status:** Currently studying, writing code and working on projects
