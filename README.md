@@ -1,23 +1,28 @@
-# Yehor | Junior Python Developer
+# 👨‍💻 Yehor | Cybersecurity & Python
 
-* **Location:** Ukraine 🇺🇦
-* **Status:** Learning and building projects
+* 📍 **Location:** Ukraine 🇺🇦
+* 🎯 **Focus:** Security engineering, system customization, and open-source tooling
 
-I write code, read documentation, and build custom programs and tools using Python.
-
----
-
-## 🛠️ Tech Stack
-
-* **Languages & Frameworks:** Python, Django, Flask, FastAPI
-* **Data & Libraries:** SQLite, SQLAlchemy, NumPy, Pandas, Scikit-learn
-* **Tools & Web:** Git, VS Code, HTML/CSS/JS
+Building CLI utilities, exploring web vulnerabilities, and automating workflows with Python.
 
 ---
 
-## 🎯 Main Project
+### 🛠️ Tech Stack
 
-### [🦠 COVID-19 Data Science & ML Pipeline](https://github.com/y-lebid/covid19-ml-pipeline)
-An end-to-end Python pipeline for data processing, automated visualization, and machine learning.
-* **What I did:** Built a complete ETL pipeline (data cleaning, feature engineering, and scaling), automated the background generation of 10 analytical plots, and implemented ML models for regression and classification using SMOTE and GridSearchCV.
-* **Goal:** Practice real-world data science workflows, handle data imbalance, and optimize machine learning models.
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1e1e2e?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt6-1e1e2e?style=for-the-badge&logo=qt&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-1e1e2e?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🚀 Featured Project
+
+#### 🛡️ [Mini Web Scanner]([https://github.com/y-lebid](https://github.com/y-lebid/mini-web-scanner.git))
+A lightweight CLI tool built in Python for automated web application security audits and basic vulnerability identification.
+
+* 🔑 **Key Features:** Header security analysis, common configuration check automation, and fast multi-threaded requests.
+* 🎯 **Goal:** Practice writing clean, functional security tools and understanding attack vectors from a defender's perspective.
