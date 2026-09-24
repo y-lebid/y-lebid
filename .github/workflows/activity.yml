@@ -16,7 +16,12 @@ jobs:
 
       - name: Download Activity Graph SVG
         run: |
-          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=y-lebid&theme=react-dark&hide_border=true&bg_color=0d1117" -o profile-activity.svg
+          curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "https://github-readme-activity-graph.vercel.app/graph?username=y-lebid&theme=react-dark&hide_border=true&bg_color=0d1117" -o profile-activity.svg
+          
+          if [ $(wc -c < profile-activity.svg) -lt 1000 ]; then
+            echo "Downloaded file is too small or contains an error response."
+            exit 1
+          fi
 
       - name: Commit and Push
         run: |
