@@ -12,14 +12,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: ashutosh00710/github-readme-activity-graph@main
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output: profile-activity.svg
-          theme: react-dark
-          bg_color: "0d1117"
-          hide_border: "true"
+      - uses: actions/checkout@v4
+
+      - name: Download Activity Graph SVG
+        run: |
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=y-lebid&theme=react-dark&hide_border=true&bg_color=0d1117" -o profile-activity.svg
+
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
