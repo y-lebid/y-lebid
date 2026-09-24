@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: ashutosh00710/github-readme-activity-graph@v1.2.3
+      - uses: ashutosh00710/github-readme-activity-graph@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           output: profile-activity.svg
