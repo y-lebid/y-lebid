@@ -16,6 +16,5 @@ I build CLI tools, system utilities, and automation tools, with a focus on Pytho
 * mini-web-scanner - Lightweight CLI tool for web security audits and HTTP header analysis.
 * sysmon - Lightweight Linux system monitor written in C++.
 
-⸻
 
 📍 Ukraine 🇺🇦
