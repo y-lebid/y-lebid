@@ -24,6 +24,9 @@ I'm studying network security at NURE. I like knowing what my machine is actuall
 - [COVID-19](https://github.com/y-lebid/COVID-19): data analysis that runs on an old laptop by looking at part of the dataset (coursework)
 - [borichkas_slop](https://github.com/y-lebid/borichkas_slop): Flask app I debugged more than I'd like to admit
 
-**Certificates:** GoITeens Python Pro (Core, Data, Web)
+**Certificates:**
+- [GoITeens Python Pro: Core](https://drive.google.com/file/d/1PteR7saqtbXx78Bz9QLb4W9jwfF6G6Ut/view?usp=sharing)
+- [GoITeens Python Pro: Data](https://drive.google.com/file/d/1O_fM1hWN2YF5BPqC48xEnEMziTaRc2HN/view?usp=sharing)
+- [GoITeens Python Pro: Web](https://drive.google.com/file/d/1-dkxOuqFtYlTRhFPXF80busQsqKOlCo7/view?usp=sharing)
 
 **Contact:** [ORCID](https://orcid.org/0009-0008-6741-9785) · [LinkedIn](https://www.linkedin.com/in/yehor-lebid-2768b6410) · yehor.lebidscholar@gmail.com
