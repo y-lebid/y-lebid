@@ -1,27 +1,29 @@
-Hey there, I'm Yehor 👋
+<h1 align="center">Yehor Lebid</h1>
 
-I build CLI tools and automation utilities in Python and C++, with a focus on Linux systems, networking, and application security. I'm a network security student at NURE.
-
-### 🛠 Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github" />
+<p align="center">
+  Network security student · I build CLI tools that do one thing well
 </p>
 
-### 🔭 Currently
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1f2228?style=flat-square&logo=python&logoColor=7CC4B0" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-1f2228?style=flat-square&logo=cplusplus&logoColor=7CC4B0" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-1f2228?style=flat-square&logo=linux&logoColor=7CC4B0" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-1f2228?style=flat-square&logo=git&logoColor=7CC4B0" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-1f2228?style=flat-square&logo=gnubash&logoColor=7CC4B0" alt="Bash" />
+</p>
 
-* Building **Vigil**, a lightweight CLI SIEM for parsing logs and running rule-based detections.
-* Learning C++ and writing tests before every commit.
+---
 
-### 📌 Projects
+I'm studying network security at NURE. I like knowing what my machine is actually doing, so most of my side projects are small tools that show me something I couldn't see before. Usually at night.
 
-* **[Vigil](https://github.com/y-lebid/Vigil)**: Lightweight CLI SIEM for log parsing and rule-based detection (Python).
-* **[NetGraph](https://github.com/y-lebid/NetGraph)**: Network analysis tool using graph algorithms, including Dijkstra's (Python, coursework).
-* **[COVID-19](https://github.com/y-lebid/COVID-19)**: Data analysis of COVID-19 statistics, optimised to run on low-end hardware by processing part of the dataset (Python, coursework).
-* **[borichkas_slop](https://github.com/y-lebid/borichkas_slop)**: Flask web application (Python).
+**Now:** building [Vigil](https://github.com/y-lebid/Vigil), a log analyzer that runs its tests on Ubuntu and Windows, and learning C++ the slow way.
 
-### 📫 Contact
+**Before:**
 
-* LinkedIn: [yehor-lebid-2768b6410](https://www.linkedin.com/in/yehor-lebid-2768b6410)
+- [NetGraph](https://github.com/y-lebid/NetGraph): graph algorithms, Dijkstra included (coursework, but the idea and code are mine)
+- [COVID-19](https://github.com/y-lebid/COVID-19): data analysis that runs on an old laptop by looking at part of the dataset (coursework)
+- [borichkas_slop](https://github.com/y-lebid/borichkas_slop): Flask app I debugged more than I'd like to admit
 
-📍 Ukraine 🇺🇦
+**Certificates:** GoITeens Python Pro (Core, Data, Web)
+
+**Contact:** [ORCID](https://orcid.org/0009-0008-6741-9785) · [LinkedIn](https://www.linkedin.com/in/yehor-lebid-2768b6410) · yehor.lebidscholar@gmail.com
