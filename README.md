@@ -29,4 +29,4 @@ I'm studying network security at NURE. I like knowing what my machine is actuall
 - [GoITeens Python Pro: Data](https://drive.google.com/file/d/1O_fM1hWN2YF5BPqC48xEnEMziTaRc2HN/view?usp=sharing)
 - [GoITeens Python Pro: Web](https://drive.google.com/file/d/1-dkxOuqFtYlTRhFPXF80busQsqKOlCo7/view?usp=sharing)
 
-**Contact:** [ORCID](https://orcid.org/0009-0008-6741-9785) · [LinkedIn](https://www.linkedin.com/in/yehor-lebid-2768b6410) · yehor.lebidscholar@gmail.com
+**Contact:** [ORCID](https://orcid.org/0009-0008-6741-9785) · [LinkedIn](https://www.linkedin.com/in/yehor-lebid-2768b6410) · yehor.lebidscholar@gmail.com · Discord: `idk_who.am.i`
